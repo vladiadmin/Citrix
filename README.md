@@ -11,5 +11,10 @@ Automation related to Citrix products
 * Item 2
 
 ### Ordered list
-1) Item 1 
-2) Item 2
+1. Item 1 
+2. Item 2
+3. Hello
+4. Nice
+
+### Somethine else
+* nice nice baby
