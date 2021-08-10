@@ -7,9 +7,9 @@ Automation related to Citrix products
 [Virt Apps and Desktops](https://github.com/vladiadmin/Citrix/tree/main/Scripts/VAD)
 
 ### Bulleted list 1
-..* Item 1
-..* Item 2
+* Item 1
+* Item 2
 
 ### Ordered list
-..1) Item 1 
-..1) Item 2
+1) Item 1 
+2) Item 2
