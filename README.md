@@ -1,7 +1,6 @@
 # Citrix
-Automation related to Citrix products
+Automation for Citrix products
 
 ## Products
 
-### Virtual Apps and Desktops (VAD)
-[Virt Apps and Desktops](https://github.com/vladiadmin/Citrix/tree/main/Scripts/VAD)
+### [Virtual Apps and Desktops (VAD)](https://github.com/vladiadmin/Citrix/tree/main/Scripts/VAD)
