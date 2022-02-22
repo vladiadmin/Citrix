@@ -1,6 +1,7 @@
-<# 	Created: 1-Jul-2021 | Script Name: Get-UsersInDeliveryGroup | 
-		Updated: 13-Jul-2021
-		Author: vladimir.mihalkov@dxc.com
+<# 	Created: 1-Jul-2021
+	Script Name: Report-CitrixUsersInDeliveryGroup.ps1
+	Updated: 13-Jul-2021
+	Author: vladimir.mihalkov@dxc.com
         Some Update
 #>
 
