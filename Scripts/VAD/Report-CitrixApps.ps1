@@ -1,5 +1,5 @@
 <# 
-Script Name: Get-CitrixApps
+Script Name: Report-CitrixApps.ps1
 Script Source: "https://github.com/vladiadmin/Citrix/tree/main/Scripts/VAD"
 Update Date: 12-Aug-2021
 Version: Final
