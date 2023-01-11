@@ -13,7 +13,7 @@ $ExportPath =  $ExportFolder + "\UsersInDeliveryGroup.csv"
 
 if (!(test-path -Path $ExportFolder)) {mkdir $ExportFolder }
 
-$DG = Get-BrokerDesktop -DesktopGroupName 'BAT-WIN10-Persistent' -MaxRecordCount 1000 | select AssociatedUserUPNs, HostedMachineName
+$DG = Get-BrokerDesktop -DesktopGroupName '<group name>' -MaxRecordCount 1000 | select AssociatedUserUPNs, HostedMachineName
 
 Write-Host "HostedMachineName, AssociatedUserUPNs"
 Add-Content -Path $ExportPath "HostedMachineName, AssociatedUserUPNs"
